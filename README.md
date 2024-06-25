@@ -96,5 +96,4 @@ TeamCollab is a project management tool designed to help teams collaborate effic
    `<br>
 
 
-# Write code by
-* [Md. Sagar Ali]('https://www.linkedin.com/in/mdsagarali/')
+# ********** END *********
